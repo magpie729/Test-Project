@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/Test/static/js/main.b6d0e940.chunk.js",
+    "main.js.map": "/Test/static/js/main.b6d0e940.chunk.js.map",
+    "runtime-main.js": "/Test/static/js/runtime-main.62eb6faa.js",
+    "runtime-main.js.map": "/Test/static/js/runtime-main.62eb6faa.js.map",
+    "static/js/2.e49c2bb4.chunk.js": "/Test/static/js/2.e49c2bb4.chunk.js",
+    "static/js/2.e49c2bb4.chunk.js.map": "/Test/static/js/2.e49c2bb4.chunk.js.map",
+    "index.html": "/Test/index.html",
+    "static/js/2.e49c2bb4.chunk.js.LICENSE.txt": "/Test/static/js/2.e49c2bb4.chunk.js.LICENSE.txt",
+    "static/media/Ellipse.a108e125.svg": "/Test/static/media/Ellipse.a108e125.svg",
+    "static/media/Rectangle.97c64c53.svg": "/Test/static/media/Rectangle.97c64c53.svg",
+    "static/media/bg.673e3607.png": "/Test/static/media/bg.673e3607.png",
+    "static/media/business.20145bbb.svg": "/Test/static/media/business.20145bbb.svg",
+    "static/media/button_minus.0e8d2ad2.svg": "/Test/static/media/button_minus.0e8d2ad2.svg",
+    "static/media/button_plus.ca490f9f.svg": "/Test/static/media/button_plus.ca490f9f.svg",
+    "static/media/content.2e34790b.svg": "/Test/static/media/content.2e34790b.svg",
+    "static/media/design.063cec3e.svg": "/Test/static/media/design.063cec3e.svg",
+    "static/media/facebook.ebb744a2.svg": "/Test/static/media/facebook.ebb744a2.svg",
+    "static/media/instagram.e18eaed4.svg": "/Test/static/media/instagram.e18eaed4.svg",
+    "static/media/linkedin.1e19ad02.svg": "/Test/static/media/linkedin.1e19ad02.svg",
+    "static/media/popup_close.1f5b94da.svg": "/Test/static/media/popup_close.1f5b94da.svg",
+    "static/media/team.c526e01e.jpg": "/Test/static/media/team.c526e01e.jpg",
+    "static/media/twitter.2117bf1e.svg": "/Test/static/media/twitter.2117bf1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62eb6faa.js",
+    "static/js/2.e49c2bb4.chunk.js",
+    "static/js/main.b6d0e940.chunk.js"
+  ]
+}
